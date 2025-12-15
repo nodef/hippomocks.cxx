@@ -1,0 +1,24 @@
+{
+  "name": "hippomocks.cxx",
+  "version": "1.2024.12",
+  "description": "Single-header mocking framework; Peter Bindels (2008).",
+  "keywords": [
+    "c",
+    "library",
+    "mock",
+    "mocking",
+    "testing",
+    "unit",
+    "test"
+  ],
+  "homepage": "https://github.com/nodef/hippomocks.cxx#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/hippomocks.cxx/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/hippomocks.cxx.git"
+  },
+  "license": "LGPL-2.1-or-later",
+  "main": "hippomocks.h"
+}
